@@ -32,4 +32,3 @@ _Autodidacta_
 _Proactivo_  
 _Amante de la naturaleza_  
 
-
