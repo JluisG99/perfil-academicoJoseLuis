@@ -18,7 +18,7 @@ Me interesan las _áreas de conservación_ en las zonas que bordean los ríos, a
 ### **Geomorfología Fluvial y Volcánica**
 Me interesa el análisiS digitaL, fotogramétricos y con RPAS de los cauces de los ríos en las zonas tropicales muy lluviosas _CaribeCr._
 
-![](https://media-exp1.licdn.com/dms/image/C5612AQFnZIOAlulIhA/article-inline_image-shrink_1000_1488/0/1522239151804?e=2147483647&v=beta&t=pR1P3OWc9f2UyC8nk91PZDOVFWTavOKtw1H9sYUGVAE)
+![https://www.copernicus.eu/es](https://media-exp1.licdn.com/dms/image/C5612AQFnZIOAlulIhA/article-inline_image-shrink_1000_1488/0/1522239151804?e=2147483647&v=beta&t=pR1P3OWc9f2UyC8nk91PZDOVFWTavOKtw1H9sYUGVAE)
 
 ### Idiomas:
 1. **Español** "Nativo"
