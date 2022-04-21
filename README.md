@@ -13,7 +13,7 @@ Estudiante de cuarto año de Geografía de la Universidad de Costa Rica
 + Procesamiento de datos espaciales
 
 ### **EcoBioGeografía**
-Me interesan las _áreas de conservación_ en las zonas que bordean los ríos, así como el impacto de las actividades antropológicas sobre la riqueza natural que las áreas protectoras deben tener. Me gustaría identificar las áreas que incumplen con la ley forestal.
+Me interesan las _áreas de conservación_ en las zonas que bordean los ríos, así como el impacto de las actividades antropológicas sobre la riqueza natural que las áreas protectoras deben tener. Me gustaría identificar las áreas que incumplen con la ley forestal, con el uso de [Imágenes Landsat](https://www.copernicus.eu/es) .
 
 ### **Geomorfología Fluvial y Volcánica**
 Me interesa el análisiS digitaL, fotogramétricos y con RPAS de los cauces de los ríos en las zonas tropicales muy lluviosas _CaribeCr._
@@ -31,4 +31,5 @@ Me interesa el análisiS digitaL, fotogramétricos y con RPAS de los cauces de l
 _Autodidacta_  
 _Proactivo_  
 _Amante de la naturaleza_  
+
 
